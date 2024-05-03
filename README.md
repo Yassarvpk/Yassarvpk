@@ -23,10 +23,9 @@
 [twitter]: https://twitter.com/VpkYasir
 [youtube]: https://www.youtube.com/channel/UC_KPJlFQRBymfAySyNIAMNg
 [instagram]: https://www.instagram.com/yassarvpk/
-[linkedin]: www.linkedin.com/in/yassar-arafath-vpk
+[linkedin]: https://www.linkedin.com/in/yassar-arafath-vpk/
 
 <!--
 
 
 -->
-
